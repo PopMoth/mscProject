@@ -2,6 +2,8 @@ This is the repository for the "Search, Select, Summarise" MSc Project
 
 ## Getting Started
 
+You will need a valid API key for Google Gemini to use this tool.
+
 To run this tool, first set the "GEMINI_API_KEY" environment variable in your local environment. This can be done by creating a `.env` file with the following contents:
 
 ```
