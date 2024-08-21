@@ -16,3 +16,11 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the tool.
+
+## Using the tool
+
+Click on the dropdown box at the top of the page, and select a TV series.
+
+Using the grid that appears, select the first episode in the range you wish to have summarised, then select the last episode in the range.
+
+Once selected, press the summarise button.
