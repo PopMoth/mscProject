@@ -10,6 +10,12 @@ To run this tool, first set the "GEMINI_API_KEY" environment variable in your lo
 GEMINI_API_KEY=<your-api-key-here>
 ```
 
+You will then need to install dependencies, using
+
+```bash
+npm i
+```
+
 You can then start the tool by calling
 
 
